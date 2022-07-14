@@ -1,0 +1,32 @@
+{
+  "name": "test-palindrome",
+  "version": "1.0.0",
+  "description": "Checks if a string is a palindrome, and returns \"true\" if it is a palidrome, and \"false\" if it is not a palindrome.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mostafa-Milani-Amin/palindromeChecker.git"
+  },
+  "keywords": [
+    "palindrome",
+    "string",
+    "check",
+    "text",
+    "txt",
+    "javascript",
+    "js",
+    "learn-enough",
+    "palind",
+    "palindrome-test",
+    "palindrome-checker"
+  ],
+  "author": "Mostafa Milani Amin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Mostafa-Milani-Amin/palindromeChecker/issues"
+  },
+  "homepage": "https://github.com/Mostafa-Milani-Amin/palindromeChecker#readme"
+}
